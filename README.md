@@ -21,3 +21,4 @@ because of my dementia I have to write them down somewhere, feel free to steal ð
 - Easy to learn, and quick to use **photo editing software**
 - MEAN stack CMS
 - More advanced level editor for **certain characteristic rhythm video game**
+- My portfolio website
