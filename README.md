@@ -20,4 +20,4 @@ Unemployed, currently looking for any opportunity to grow 👀
 because of my dementia I have to write them down somewhere, feel free to steal 😨
 - Easy to learn, and quick to use **photo editing software**
 - MEAN stack CMS
-- More advanced level editor for **certain characteristic rhythm game**
+- More advanced level editor for **certain characteristic rhythm video game**
