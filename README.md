@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**foealke/foealke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✋ Dzień dobry  
+💼 High school student from Poland, Wroclaw. 
+Unemployed, currently looking for any opportunity to grow 👀
 
-Here are some ideas to get you started:
+## 💻 My current go to langs/technologies for projects 
+-	ECMAScript implementations and variants of those implementations (NodeJS, TS, Vanilla JS etc.) 
+-	NoSQL db's like Mongo 
+-	GraphQL
+-	Python 
+-	C++ 
+-	React
+-	Express
+-	.NET (C#)
+-	Docker
+-	GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 😬 Pending projects list 
+because of my dementia I have to write them down somewhere, feel free to steal 😨
+- Easy to learn, and quick to use **photo editing software**
+- MEAN stack CMS
+- More advanced level editor for **certain characteristic rhythm game**
