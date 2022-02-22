@@ -1,7 +1,7 @@
 
 # ✋ Dzień dobry  
 💼 High school student from Poland, Wroclaw. 
-Unemployed, currently looking for any opportunity to grow 👀
+Unemployed, currently looking for opportunities 👀
 
 ## 💻 My current go to langs/technologies for projects 
 -	ECMAScript implementations and variants of those implementations (NodeJS, TS, Vanilla JS etc.) 
