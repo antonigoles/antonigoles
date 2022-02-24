@@ -5,7 +5,7 @@ Unemployed, currently looking for opportunities 👀
 
 ## 💻 My current go to langs/technologies for projects 
 -	ECMAScript implementations and variants of those implementations (NodeJS, TS, Vanilla JS etc.) 
--	NoSQL db's like Mongo 
+-	Mongo 
 -	GraphQL
 -	Python 
 -	C++ 
