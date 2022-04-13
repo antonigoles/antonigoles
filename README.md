@@ -16,7 +16,7 @@ Unemployed, currently looking for opportunities 👀
 -	GIT
 
 
-## 😬 Pending projects list 
+## 🛠 Pending projects list 
 because of my dementia I have to write them down somewhere, feel free to steal 😨
 - Easy to learn, and quick to use **photo editing software**
 - MEAN stack CMS
