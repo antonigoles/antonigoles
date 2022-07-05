@@ -1,24 +1,16 @@
 
-# ✋ Dzień dobry  
-💼 High school student from Poland, Wroclaw. 
-Unemployed, currently looking for work opportunities 👀
+ 💼 High school student from Poland, Wroclaw. 
+Unemployed, currently looking for work opportunities 
 
-## 💻 My current go to langs/technologies for projects 
--	ECMAScript implementations and variants of those implementations (NodeJS, TS, Vanilla JS etc.) 
--	Mongo 
--	GraphQL
+## 💻 If you're looking for help, those are the technologies I know how to use: 
+-	NodeJS, TS 
+-	Mongo, GraphQL, SQL
 -	Python 
 -	C++ 
 -	React
 -	Express
--	.NET (C#)
--	Docker
+-	C#
+-	Docker, Docker Compose, RabbitMQ
 -	GIT
 
 
-## 🛠 Pending projects list 
-because of my memory issues I have to write them down somewhere, feel free to steal 😨
-- Easy to learn, and quick to use **photo editing software**
-- MEAN stack CMS
-- More advanced level editor for **certain characteristic rhythm video game**
-- My portfolio website
