@@ -1,8 +1,8 @@
 
- 💼 High school student from Poland, Wroclaw. 
+💼 High school student from Poland, Wroclaw. 
 Unemployed, currently looking for work opportunities 
 
-## 💻 If you're looking for a collaborator, those are some of the technologies I know how to use 
+## 🧰 My toolbox
 -	NodeJS, TS 
 -	Mongo, GraphQL, SQL
 -	Python 
