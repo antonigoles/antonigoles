@@ -1,6 +1,6 @@
 
 ## 💼 High school student from Poland, Wroclaw. 
-Unemployed, currently looking for work opportunities 
+
 
 ### 🧰 My toolbox
 -	NodeJS, TS 
