@@ -23,4 +23,4 @@ aktualny progress:
 | F#  | Nie | TODO |
 
 
-(this "aboutme" page is only for my fellow poles) 
+(this "aboutme" page is for my fellow polish people only) 
