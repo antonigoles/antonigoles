@@ -11,9 +11,9 @@ aktualny progress:
 | C++ | **Tak** | [3D-Rasterizer](https://github.com/antonigoles/3D-Rasterizer) |
 | C# | **Tak** | Lokalne projekty nie na githuba |
 | Python | **Tak** | [biuro.store](https://biuro.store)  |
-| Go  | *Chce być lepszy* | TODO |
-| C | *Chce być lepszy* | TODO |
-| TypeScript  | *Chce być lepszy*| [biuro.store](https://biuro.store) |
+| Go  | *Chcę być lepszy* | TODO |
+| C | *Chcę być lepszy* | TODO |
+| TypeScript  | *Chcę być lepszy*| [biuro.store](https://biuro.store) |
 | COBOL | Nie | [COMEI](https://github.com/antonigoles/COMEI) |
 | Rust | Nie | TODO |
 | Ruby | Nie | TODO |
