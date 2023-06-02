@@ -13,6 +13,7 @@ aktualny progress:
 | Python | **Tak** | [biuro.store](https://biuro.store)  |
 | Go  | *Chcę być lepszy* | TODO |
 | C | *Chcę być lepszy* | TODO |
+| Solidity  | Nie | TODO |
 | TypeScript  | *Chcę być lepszy*| [biuro.store](https://biuro.store) |
 | COBOL | Nie | [COMEI](https://github.com/antonigoles/COMEI) |
 | Rust | Nie | TODO |
