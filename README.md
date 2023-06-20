@@ -23,5 +23,3 @@ aktualny progress:
 | Haskell  | Nie | TODO |
 | F#  | Nie | TODO |
 
-
-(this "aboutme" page is for my fellow polish people only) 
