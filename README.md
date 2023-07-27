@@ -1,25 +1,32 @@
+### Sofware Engineer at [**LNU**](https://www.lnu.org.pl/ "**LNU**")
+--- 
+> currently studying at the University of Wrocław
 
-## 🤠 Dzień dobry na moim stronie github 
+Commercial Production experience in:
+- Distributed systems (k8s)
+- Containerization (Docker)
+- Backend Web Development (Express; PHP 7+; Django)
+- Datastorage (PostgreSQL; MariaDB; MongoDB)
+- Cloud technologies (Rancher; Longhorn)
+- Unit testing + TDD (Jest)
+- Server Tools (Nginx; Apache2)
 
-Wyzwanie na ~~rok~~  ~~2021~~ ~~2022~~ ~~2023~~ *całe życie*
-to nauczyć się dużo języków (for fun) na przynajmniej poziomie juniora (subiektywnie)
-aktualny progress: 
+Non-commercial Production experience in:
+- Web CMS (Wordpress)
+- Backend Web Development (Sails.js; Iris; Flask; ASP.NET)
+- Frontend Web Development (React; Sass)
+- Microservice architecture + commonly used technologies (RabbitMQ)
+- Mobile development (React Native; Expo)
+- UI/UX Design
 
-| Język | Status | Projekt, na którym było trenowane |
-| --------- | -------- | -------- |
-| JavaScript | **Tak** | 90% projektów od 2017 roku pretty much |
-| C++ | **Tak** | [3D-Rasterizer](https://github.com/antonigoles/3D-Rasterizer) |
-| C# | **Tak** | Lokalne projekty nie na githuba |
-| Python | **Tak** | [biuro.store](https://biuro.store)  |
-| Go  | *Chcę być lepszy* | TODO |
-| C | *Chcę być lepszy* | TODO |
-| Solidity  | Nie | TODO |
-| TypeScript  | *Chcę być lepszy*| [biuro.store](https://biuro.store) |
-| COBOL | Nie | [COMEI](https://github.com/antonigoles/COMEI) |
-| Rust | Nie | TODO |
-| Ruby | Nie | TODO |
-| Assembly x86 | Nie | TODO |
-| Assembly ARM | Nie | TODO |
-| Haskell  | Nie | TODO |
-| F#  | Nie | TODO |
+Self taught and passionate about:
+- Computer science.
+
+
+
+
+
+
+
+
 
