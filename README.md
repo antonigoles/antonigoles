@@ -1,7 +1,7 @@
 ### Sofware Engineer at [**LNU**](https://www.lnu.org.pl/ "**LNU**")
 --- 
 > currently studying at the University of Wrocław
-> - this github page is not that active because I use mainly bitbucket for work 
+> - this github page is not that active because I mainly use bitbucket for work 
 
 Commercial Production experience in:
 - Distributed systems (k8s)
