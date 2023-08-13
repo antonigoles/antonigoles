@@ -1,4 +1,4 @@
-### Sofware Engineer at [**LNU**](https://www.lnu.org.pl/ "**LNU**")
+### Software Engineer at [**LNU**](https://www.lnu.org.pl/ "**LNU**")
 --- 
 > currently studying at the University of Wrocław
 > - this github page is not that active because I mainly use bitbucket for work 
