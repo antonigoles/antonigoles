@@ -1,3 +1,4 @@
+
 ### Working student @ Nokia
 --- 
 > currently studying at the University of Wrocław
@@ -24,8 +25,7 @@ Non-commercial Production experience in:
 Self taught and passionate about:
 - Computer science.
 
-
-
+####  btw. Checkout my new project - [Dom Effects](https://github.com/antonigoles/Dom-Effects)
 
 
 
