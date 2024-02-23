@@ -1,5 +1,5 @@
 
-### Working student @ Nokia
+  ### PHP Software Engineer @ Centra
 --- 
 > currently studying at the University of Wrocław
 > - this github page is not that active because I mainly use internal version control tools for work 
